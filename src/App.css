@@ -3,7 +3,11 @@
   list-style-type: none;
 }
 .wafa{
+<<<<<<< HEAD
   color:red
+=======
+  color:red;
+>>>>>>> 7937aee9e4301642b1977373a782d5789f22add0
 }
 .App a {
   text-decoration: none;
